@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+<meta charset="UTF-8">
+<title>Amostras Grátis 0800</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+
+body{
+margin:0;
+font-family:Arial, sans-serif;
+background:linear-gradient(135deg,#0f172a,#1e293b);
+color:white;
+display:flex;
+align-items:center;
+justify-content:center;
+height:100vh;
+}
+
+.container{
+text-align:center;
+background:#1e293b;
+padding:50px;
+border-radius:20px;
+max-width:420px;
+box-shadow:0 0 40px rgba(0,0,0,0.5);
+}
+
+.logo{
+font-size:32px;
+margin-bottom:10px;
+}
+
+.title{
+font-size:24px;
+font-weight:bold;
+margin-bottom:10px;
+}
+
+.desc{
+opacity:0.8;
+margin-bottom:30px;
+}
+
+.button{
+display:inline-block;
+padding:15px 30px;
+background:#229ED9;
+color:white;
+text-decoration:none;
+border-radius:10px;
+font-size:18px;
+font-weight:bold;
+transition:0.3s;
+}
+
+.button:hover{
+background:#1b86bd;
+transform:scale(1.05);
+}
+
+.footer{
+margin-top:25px;
+font-size:13px;
+opacity:0.5;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<div class="logo">🎁</div>
+
+<div class="title">
+Amostras Grátis 0800
+</div>
+
+<div class="desc">
+Entre no nosso bot oficial no Telegram para receber
+amostras grátis, promoções e novidades exclusivas.
+</div>
+
+<a class="button" href="https://t.me/AmostrasGratis0800_bot">
+Abrir no Telegram
+</a>
+
+<div class="footer">
+Página oficial • Acesso seguro
+</div>
+
+</div>
+
+</body>
+</html>
